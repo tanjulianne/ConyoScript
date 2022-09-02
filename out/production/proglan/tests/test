@@ -1,0 +1,8 @@
+make_gawa testOne() {
+	so_like x = 3;
+ 	make_sabi "hello";
+}
+
+make_gawa init() {
+    testOne();
+}

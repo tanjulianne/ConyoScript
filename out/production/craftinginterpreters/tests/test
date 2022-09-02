@@ -1,0 +1,5 @@
+so_like x = 10;
+x += 10;
+if_like (x == 0) {
+       make_sabi "yes";
+}
